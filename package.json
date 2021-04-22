@@ -1,0 +1,19 @@
+{
+  "name": "cra-template-htmlacademy",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "htmlacademy"
+  ],
+  "description": "The base template for projects of htmlacademy",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
