@@ -8,9 +8,9 @@
 Пример:
 
 ```sh
-npx create-react-app <project-name> --template cra-template-htmlacademy
+npx create-react-app my-project --template cra-template-htmlacademy
 
 # или
 
-yarn create react-app <project-name> --template cra-template-htmlacademy
+yarn create react-app my-project --template cra-template-htmlacademy
 ```
