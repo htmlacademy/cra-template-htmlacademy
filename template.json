@@ -8,7 +8,7 @@
       "test:eslint": "npm run eslint"
     },
     "eslintConfig": {
-      "extends": ["react-app", "react-app/jest", "htmlacademy/es6"]
+      "extends": ["react-app", "react-app/jest", "htmlacademy/react"]
     },
     "dependencies": {
       "@reduxjs/toolkit": "1.5.0",
