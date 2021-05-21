@@ -1,16 +1,13 @@
-# cra-template-htmlacademy
+# @htmlacademy/cra-template
 
-[Create React App](https://github.com/facebook/create-react-app
-) шаблон для курса «React. Разработка сложных приложений» от [HTML Academy](https://htmlacademy.ru/).
+Шаблон [Create React App](https://github.com/facebook/create-react-app) для курса «[React. Разработка сложных приложений](https://htmlacademy.ru/intensive/react)» от HTML Academy.
 
-Для создания нового проекта на основе шаблона `cra-template-htmlacademy` используйте ключ `--template` со значением `cra-template-htmlacademy`.
-
-Пример:
+Для создания нового проекта на основе шаблона `@htmlacademy/cra-template` используйте ключ `--template` со значением `@htmlacademy/cra-template`:
 
 ```sh
-npx create-react-app my-project --template cra-template-htmlacademy
+npx create-react-app project --template @htmlacademy/cra-template
 
 # или
 
-yarn create react-app my-project --template cra-template-htmlacademy
+yarn create-react-app project --template @htmlacademy/cra-template
 ```
