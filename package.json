@@ -15,5 +15,13 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htmlacademy/cra-template-htmlacademy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/htmlacademy/cra-template-htmlacademy/issues"
+  },
+  "homepage": "https://github.com/htmlacademy/cra-template-htmlacademy#readme"
 }
