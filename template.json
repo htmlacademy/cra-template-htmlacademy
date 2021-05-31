@@ -4,6 +4,7 @@
   },
   "package": {
     "scripts": {
+      "test": "react-scripts test --passWithNoTests",
       "eslint": "eslint --ext .jsx --ext .js src/",
       "test:eslint": "npm run eslint"
     },
